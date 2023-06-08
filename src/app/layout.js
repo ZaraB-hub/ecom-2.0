@@ -14,10 +14,6 @@ import Footer from '@/components/Footer'
 
 const inter = Inter({ subsets: ['latin'] })
 
-export const metadata = {
-  title: 'Gentle Heart',
-  description: 'Fashion that empowers',
-}
 
 export default function RootLayout({ children }) {
   return (
