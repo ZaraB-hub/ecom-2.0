@@ -1,4 +1,4 @@
-"use client"
+
 import '@/styles/globals.css'
 import '@/styles/home.css'
 import '@/styles/navbar.css'
